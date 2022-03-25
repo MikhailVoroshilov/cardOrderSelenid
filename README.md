@@ -1,2 +1,2 @@
 ## Status 
-[![Build status](https://ci.appveyor.com/api/projects/status/2ajmj2p52xvfn3us?svg=true)](https://ci.appveyor.com/project/MikhailVoroshilov/ordercardselenide)
+[![Build status](https://ci.appveyor.com/api/projects/status/vv4led9y9f5vxhl4?svg=true)](https://ci.appveyor.com/project/MikhailVoroshilov/cardorderselenid)
